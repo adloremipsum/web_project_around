@@ -2,8 +2,6 @@
 
 Este proyecto se trata de una página interactiva en la que los usuarios pueden añadir, eliminar o dar "me gusta" a las fotos. Lo hemos diseñado de tal modo que todos los elementos se muestren correctamente en los tamaños de pantalla más habituales.
 
-Aquí dejo el acceso directo a la web en Github: https://sandralopezrgz.github.io/web_project_around/
-
 ### Herramientas
 
 Puedes ver abajo la lista con las principales herramientas y lenguajes de marcado con los que se ha desarrollado este proyecto:
